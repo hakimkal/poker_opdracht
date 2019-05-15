@@ -1,5 +1,7 @@
 # PokerOpdracht
 
+**Clone Repo**
+1. git clone https://github.com/hakimkal/poker_opdracht.git
 **Run app**
 
 1. mix deps.get
